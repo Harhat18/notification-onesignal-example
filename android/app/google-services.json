@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382981058435",
+    "project_id": "fir-notifee-fae80",
+    "storage_bucket": "fir-notifee-fae80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382981058435:android:4371a9dc60018516dbd0b6",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHk0dYlslgtIn_2i3bxvdg0udVxOvxJkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
